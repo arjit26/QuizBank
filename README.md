@@ -1,1 +1,1 @@
-# QuizBank
+QuizBank is a robust web application crafted for efficient quiz management, built using Core Java, Spring Boot, and MySQL. It provides a seamless experience for users to create and manage quizzes, with features like question retrieval by category, and the ability to add, update, or delete questions. The application ensures smooth handling of quiz submissions and responses, leveraging Core Java for its core logic, Spring Boot to develop a RESTful API, and MySQL for reliable data storage.
